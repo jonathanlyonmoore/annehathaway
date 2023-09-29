@@ -8,7 +8,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "annehathaway", ".", "{671F5
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_54802"
 		Debug.AspNetCompiler.PhysicalPath = "..\annehathaway\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54802\"
+		Debug.AspNetCompiler.TargetPath = "Debug.AspNetCompiler.TargetPath = "..\..\MySolution\PrecompiledWeb""
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
